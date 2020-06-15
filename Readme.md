@@ -7,5 +7,5 @@
 ## 3주차 과제 (2020.05.24)
 [3주차](https://colab.research.google.com/drive/1s0TeVzXIZJwCOqwV65D8tttggkyqkO7x#scrollTo=evbG1BaNI1qd, "바로가기")
 ## 4주차 과제 (2020.05.24)
-[4주차](https://colab.research.google.com/drive/1nsJiAkus6QIF-xPyp9-fRw7ZagZ8dN1m, "바로가기")
+[4주차](https://colab.research.google.com/drive/1nsJiAkus6QIF-xPyp9-fRw7ZagZ8dN1m#scrollTo=ixEtDe6_uGgI, "바로가기")
 
